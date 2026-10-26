@@ -172,19 +172,7 @@ g++ -std=c++11 Vehicle.cpp TrafficSignal.cpp Intersection.cpp TrafficSimulator.c
 
 ## Output Screenshots
 
-Add screenshots of the program output below. These screenshots can show the simulation running and the different functionalities being tested.
-
-### Program Execution
-
-<!-- Add screenshot here -->
-
-### Vehicle and Traffic Signal Output
-
-<!-- Add screenshot here -->
-
-### Traffic Report Output
-
-<!-- Add screenshot here -->
+![Traffic Simulator Output](assets/output.png)
 
 ---
 
